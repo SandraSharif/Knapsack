@@ -1,0 +1,12 @@
+C:\Users\Sasha\source\repos\Knapsack\bin\Debug\Knapsack.exe.config
+C:\Users\Sasha\source\repos\Knapsack\bin\Debug\Knapsack.exe
+C:\Users\Sasha\source\repos\Knapsack\bin\Debug\Knapsack.pdb
+C:\Users\Sasha\source\repos\Knapsack\obj\Debug\Knapsack.csprojAssemblyReference.cache
+C:\Users\Sasha\source\repos\Knapsack\obj\Debug\Knapsack.Form1.resources
+C:\Users\Sasha\source\repos\Knapsack\obj\Debug\Knapsack.Properties.Resources.resources
+C:\Users\Sasha\source\repos\Knapsack\obj\Debug\Knapsack.csproj.GenerateResource.cache
+C:\Users\Sasha\source\repos\Knapsack\obj\Debug\Knapsack.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\Knapsack\obj\Debug\Knapsack.exe
+C:\Users\Sasha\source\repos\Knapsack\obj\Debug\Knapsack.pdb
+C:\Users\Sasha\source\repos\Knapsack\obj\Debug\Knapsack.Adding.resources
+C:\Users\Sasha\source\repos\Knapsack\obj\Debug\Knapsack.Form2.resources
